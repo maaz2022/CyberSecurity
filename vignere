@@ -1,0 +1,7 @@
+ROE using P/L before tax ~ Total assetsGBP + Year
+
+
+
+
+
+| Coefficient | Estimate | Std. Error | t value | Pr(>|t|) | |----------------------|-----------|------------|---------|-----------| | (Intercept) | 1263.00 | 1043.00 | 1.210 | 0.2265 | | Total assetsGBP | -2.055e-10| 8.621e-11 | -2.384 | 0.0173 * | | Year | -0.6174 | 0.5177 | -1.193 | 0.2334 |
